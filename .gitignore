@@ -1,0 +1,5 @@
+# ignore demo1_venv, build, templates
+demo1_venv/
+docs/build/
+docs/source/_templates/
+
